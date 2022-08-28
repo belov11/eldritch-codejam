@@ -1,4 +1,4 @@
-import brown1 from './brown1.png';
+/* import brown1 from './brown1.png';
 import brown2 from './brown2.png';
 import brown3 from './brown3.png';
 import brown4 from './brown4.png';
@@ -18,7 +18,29 @@ import brown17 from './brown17.png';
 import brown18 from './brown18.png';
 import brown19 from './brown19.png';
 import brown20 from './brown20.png';
-import brown21 from './brown21.png';
+import brown21 from './brown21.png'; */
+
+let brown1 = './brown1.png';
+let brown2 = './brown2.png';
+let brown3 = './brown3.png';
+let brown4 = './brown4.png';
+let brown5 = './brown5.png';
+let brown6 = './brown6.png';
+let brown7 = './brown7.png';
+let brown8 = './brown8.png';
+let brown9 = './brown9.png';
+let brown10 = './brown10.png';
+let brown11 = './brown11.png';
+let brown12 = './brown12.png';
+let brown13 = './brown13.png';
+let brown14 = './brown14.png';
+let brown15 = './brown15.png';
+let brown16 = './brown16.png';
+let brown17 = './brown17.png';
+let brown18 = './brown18.png';
+let brown19 = './brown19.png';
+let brown20 = './brown20.png';
+let brown21 = './brown21.png';
 
 const cards = {
   brown1,
