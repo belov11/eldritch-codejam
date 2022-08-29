@@ -10,6 +10,7 @@ import cardsDataBrown from './data/mythicCards/brown/index.js'
 
 //сумма карт всех
 function sumCard(god) {
+    console.log('1')
 const sumGreenCards = ancientsData[god].firstStage.greenCards + ancientsData[god].secondStage.greenCards + ancientsData[god].thirdStage.greenCards
 const sumBrownCards = ancientsData[god].firstStage.brownCards + ancientsData[god].secondStage.brownCards + ancientsData[god].thirdStage.brownCards
 const sumBlueCards = ancientsData[god].firstStage.blueCards + ancientsData[god].secondStage.blueCards + ancientsData[god].thirdStage.blueCards
